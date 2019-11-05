@@ -14,6 +14,20 @@ body {
     border:  1px solid #000;
     margin: 0 auto;
 }
+#cabecera{
+    background: midnightblue;
+    box-shadow: -4px -5px 14px 1px rgba(0,0,0,0.75);
+    font-weight: bold;
+    color: mintcream;
+    margin: 0;
+    padding: 0, 5em;
+}
+#cabecera #tagline
+{
+    font-weight: normal;
+    font-size:  0.8em;
+    padding: 0 0 0 1em;
+}
 #container h1{
     font-size: 20px;
 }
